@@ -2,9 +2,6 @@
 
 Merhaba ben Şule Duman. Sivas Cumhuriyet Üniversitesi Elektrik Elektronik Mühendisliği bölümünden mezun oldum. Bölümümden ziyade yazılım alanında kendime geliştiriyorum. Bu doğrultuda 2020/2021 yıllarında Teknofest İnsansız Hava Araçları Döner Kanat Kategorisi yarışmalarında otonom kontrol yazılımı üzerine çalıştım. Python programlama dili ile Dronekit, ROS ve Mavlink destekli MavROS çalıştım. Mezun olduktan sonra Flutter üzerine bir şirkette Junior Developer olarak çalışmaktayım. Hedefim Flutter 'a hakim olmak ve oyun teknolojisi üzerine çalışmak.Bu süreçte çalıştığım kursu ve projeleri Github da aktif olarak paylaşmayı düşünüyorum. Herkese kolaylıklar dilerim.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dumansl&label=Profile%20views&color=0e75b6&style=flat" alt="dumansl" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suleduman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="suleduman" height="30" width="40" /></a>
