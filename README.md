@@ -27,16 +27,16 @@ Merhaba ben Şule Duman. Sivas Cumhuriyet Üniversitesi Elektrik Elektronik Müh
 
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" valign="left">
+    <td width="50%" valign="right">
       <h3><strong>Flutter Öğrenme Aşamaları</strong></h3>
         <a target="_blank" href="https://github.com/dumansl/Flutter.git">
-            <img src="https://images.prismic.io/impactio-blog/2575689d-8dfe-4d7c-b6a7-f33b170231b8_What+Does+a+Dart+and+Flutter+Developer+Do.png?auto=compress,format" width="1000" height="250" alt="https://github.com/dumansl/Flutter.git"/>
-      </a>
+            <img src="https://redwerk.es/wp-content/uploads/2020/08/f-image.png" width="1000" height="250" alt="https://github.com/dumansl/Flutter.git"/>
+        </a>
     </td>
     <td width="50%" valign="right">
       <h3><strong>Flutter Projelerim</strong></h3>
         <a target="_blank" href="https://github.com/dumansl/Flutter.git">
-            <img src="http://crowdforthink.com/assets/uploads/blogs/3cc96f4b3b56679f83e37adfb027ce8b.jpg" width="1000" height="250" alt="https://github.com/dumansl/Flutter.git"/>
+            <img src="https://industryolog.com/wp-content/uploads/2020/10/1_4vlkTJCWbP2Kh2vyK9BdEw.png" width="1000" height="250" alt="https://github.com/dumansl/Flutter.git"/>
         </a>
     </td>
   </tr>
