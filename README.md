@@ -1,4 +1,4 @@
-<h3 align="left">Merhabalar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"></h3> 
+<h3 align="left">Merhabalar</h3> 
 
 Merhaba ben Şule Duman. Sivas Cumhuriyet Üniversitesi Elektrik Elektronik Mühendisliği bölümünden mezun oldum. Bölümümden ziyade yazılım alanında kendime geliştiriyorum. Bu doğrultuda 2020/2021 yıllarında Teknofest İnsansız Hava Araçları Döner Kanat Kategorisi yarışmalarında otonom kontrol yazılımı üzerine çalıştım. Python programlama dili ile Dronekit, ROS ve Mavlink destekli MavROS çalıştım. Mezun olduktan sonra Flutter üzerine bir şirkette Junior Developer olarak çalışmaktayım. Hedefim Flutter 'a hakim olmak ve oyun teknolojisi üzerine çalışmak.Bu süreçte çalıştığım kursun ve projeleri Github da aktif olarak paylaşmayı düşünüyorum. Herkese kolaylıklar dilerim.
 
