@@ -35,7 +35,7 @@ Merhaba ben Şule Duman. Sivas Cumhuriyet Üniversitesi Elektrik Elektronik Müh
     </td>
     <td width="50%" valign="right">
       <h3><strong>Flutter Projelerim</strong></h3>
-        <a target="_blank" href="https://github.com/dumansl/Flutter.git">
+        <a target="_blank" href="https://github.com/dumansl/Flutter-Projects.git">
             <img src="https://samderlust.com/wp-content/uploads/2019/09/flutter.png" width="1000" height="250" alt="https://github.com/dumansl/Flutter.git"/>
         </a>
     </td>
