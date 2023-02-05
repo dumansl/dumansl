@@ -7,7 +7,6 @@ Merhaba ben Şule Duman. Sivas Cumhuriyet Üniversitesi Elektrik Elektronik Müh
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suleduman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="suleduman" height="30" width="40" /></a>
-<a href="https://github.com/albursasd" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2022/03/Github-Logo-White.png" alt="suleduman" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
