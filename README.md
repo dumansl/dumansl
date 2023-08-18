@@ -20,24 +20,3 @@ Merhaba ben Şule Duman. Sivas Cumhuriyet Üniversitesi Elektrik Elektronik Müh
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
-
-<br />
-<br />
-<br />
-
-<table bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="right">
-      <h3><strong>Flutter Öğrenme Aşamaları</strong></h3>
-        <a target="_blank" href="https://github.com/dumansl/Flutter.git">
-            <img src="https://redwerk.es/wp-content/uploads/2020/08/f-image.png" width="1000" height="250" alt="https://github.com/dumansl/Flutter.git"/>
-        </a>
-    </td>
-    <td width="50%" valign="right">
-      <h3><strong>Flutter Projelerim</strong></h3>
-        <a target="_blank" href="https://github.com/dumansl/Flutter-Projects.git">
-            <img src="https://samderlust.com/wp-content/uploads/2019/09/flutter.png" width="1000" height="250" alt="https://github.com/dumansl/Flutter.git"/>
-        </a>
-    </td>
-  </tr>
-</table>
