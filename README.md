@@ -6,7 +6,7 @@ Merhaba ben Şule Duman. Sivas Cumhuriyet Üniversitesi Elektrik Elektronik Müh
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suleduman/" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473" alt="suleduman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suleduman/" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473" alt="suleduman" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
