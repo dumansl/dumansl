@@ -1,10 +1,11 @@
+
 <h3 align="left">Hi 👋🏻</h3> 
 
-Hello, I am Şule Duman. I graduated from Sivas Cumhuriyet University, Department of Electrical and Electronics Engineering. After graduation, I started working as a Flutter developer. I'm trying to improve myself in the field of Flutter. Good luck.
+Hello, I am Şule Duman. I graduated from Sivas Cumhuriyet University, Department of Electrical and Electronics Engineering. I am junior flutter developer.
 
-<img align="right" height="150" src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif"  />
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<h3 align="left">Languages and Tools:</h3>
+<img align="right" height="150" src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif"/><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
@@ -24,8 +25,24 @@ Hello, I am Şule Duman. I graduated from Sivas Cumhuriyet University, Departmen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
 </div>
 
-<br clear="both">
+<br clear="both"><br>
 
-<img src="https://raw.githubusercontent.com/dumansl/dumansl/output/snake.svg" alt="Snake animation" />
+<h2 align="left">⚡ Stats ⚡</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dumansl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dumansl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+</div>
+
+<div align="left">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dumansl/dumansl/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+
 
 
