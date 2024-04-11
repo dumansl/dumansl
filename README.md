@@ -25,7 +25,7 @@ Hello, I am Şule Duman. I graduated from Sivas Cumhuriyet University, Departmen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
-<br clear="both"><br>
+<br clear="both">
 
 <h2 align="left">⚡ Stats ⚡</h2>
 
