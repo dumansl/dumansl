@@ -36,7 +36,7 @@ Hello, I am Şule Duman. I graduated from Sivas Cumhuriyet University, Departmen
 
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dumansl/dumansl/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dumansl/dumansl/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
