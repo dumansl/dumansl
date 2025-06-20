@@ -1,7 +1,7 @@
 
 <h3 align="left">Hi 👋🏻</h3> 
 
-Hello, I am Şule Duman. I graduated from Sivas Cumhuriyet University, Department of Electrical and Electronics Engineering. I am junior flutter developer.
+Hello, I am Şule Duman. I graduated from Sivas Cumhuriyet University, Department of Electrical and Electronics Engineering. I am Mobile Developer.
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
